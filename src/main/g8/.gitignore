@@ -1,0 +1,13 @@
+/dist/
+
+target/
+node_modules/
+
+.bloop/
+.bsp/
+.idea/
+.metals/
+.vscode/
+metals.sbt
+
+.DS_Store
