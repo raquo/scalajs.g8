@@ -21,6 +21,14 @@ Want to add backend, more code examples, etc.? Check out [Laminar full stack dem
 This project uses Scala 3, but changing to Scala 2 is only a few lines of code, e.g. if needed to investigate a bug.
 
 
+## Known issues
+
+- Giter8 prints out "Skipping ignored file" warnings if you answer "no" to Laminar or CSS [giter8#932](https://github.com/foundweekends/giter8/issues/932)
+- Giter8 prints out SLF4J warnings [giter8#931](https://github.com/foundweekends/giter8/issues/931)
+
+These are harmless, the output is good. If the issues are marked as fixed but your Giter8 still prints those warnings, try updating sbt.
+
+
 ## TODO
 
 - Add more optional features
