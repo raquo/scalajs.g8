@@ -1,6 +1,6 @@
 # Scala.js giter8 template
 
-This is bare-bones template for a [Scala.js](https://www.scala-js.org/) web frontend project.
+This template lets you create a bare-bones [Scala.js](https://www.scala-js.org/) frontend project with a standard sbt + Vite build setup.
 
 First, install [sbt](https://www.scala-sbt.org/1.x/docs/Setup.html) and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
