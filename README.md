@@ -42,6 +42,11 @@ These are harmless, the output is good. If the issues are marked as fixed but yo
 - Promote this template in Laminar docs / "quick start" page etc.
 
 
+## Contributing
+
+I do want to add more features, but we can't add too many, because giter8 functionality is quite limited (e.g. it does not have conditional property defaults – there is no way to hide laminar-specific questions if user said they did not want laminar). So, if you do want to add something, please check with me, either via discord, or via github discussions/issues.
+
+
 ## Public Domain
 
 To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this template to the public domain worldwide. This template is distributed without any warranty. See https://creativecommons.org/publicdomain/zero/1.0/.
