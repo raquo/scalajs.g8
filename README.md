@@ -44,7 +44,7 @@ These are harmless, the output is good. If the issues are marked as fixed but yo
 
 ## Contributing
 
-I do want to add more features, but we can't add too many, because giter8 functionality is quite limited (e.g. it does not have conditional property defaults – there is no way to hide laminar-specific questions if user said they did not want laminar). So, if you do want to add something, please check with me, either via discord, or via github discussions/issues.
+I do want to add more features, but we can't add too many, because giter8 functionality is quite limited (e.g. it does not have conditional property defaults – there is no way to hide subsequent Laminar-specific questions if the user said they did not want Laminar). So, if you do want to add something, please check with me, either via Discord, or via Github discussions/issues.
 
 
 ## Public Domain
